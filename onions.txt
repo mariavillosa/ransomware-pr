@@ -4,7 +4,6 @@ Cl0p - http://ekbgzchl6x2ias37.onion
 DopplePaymer - http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion
 Ragnar Locker - http://p6o7m73ujalhgkiv.onion
 Nefilim Group - http://hxt254aygrsziejn.onion
-Avaddon Ransomware - http://avaddongun7rngel.onion
 Suncrypt - http://nbzzb6sa6xuura2z.onion/
 REvil Ransomware - http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
 Mount Locker - http://mountnewsokhwilx.onion
@@ -33,3 +32,4 @@ DarkSide - http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion
 Everest - http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion
 Ragnarok Leaks - http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion
 Ranzy - http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+Avaddon - http://avaddongun7rngel.onion
