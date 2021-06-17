@@ -4,13 +4,12 @@ Cl0p - http://ekbgzchl6x2ias37.onion
 DopplePaymer - http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion
 Ragnar Locker - http://p6o7m73ujalhgkiv.onion
 Nefilim Group - http://hxt254aygrsziejn.onion
-Suncrypt - http://nbzzb6sa6xuura2z.onion/
-REvil Ransomware - http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
+Suncrypt - http://nbzzb6sa6xuura2z.onion
+REvil - http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
 Mount Locker - http://mountnewsokhwilx.onion
 Pay2Key - http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion
 Lockbit - http://lockbitkodidilol.onion
 Babuk/Payload.bin - http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion
-Conti - http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion
 Cuba - http://cuba4mp6ximo2zlo.onion
 Xing - http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion
 AstroTeam - http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion 
@@ -20,11 +19,12 @@ Pysa - http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion
 LV - http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion
 LV2 - http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion
 Arvin - http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion
-Grief - http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/
+Grief - http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion
 Prometheus - http://promethw27cbrcot.onion/blog/
-SynACK - http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/
-Dark Leak Market - http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/
-Unnamed - http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/
+SynACK - http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion
+Dark Leak Market - http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion
+Marketo - http://marketojbwagqnwx.onion
+Unnamed - http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion
 #Offline
 Mobikwik Indian Data Leak - http://mobikwikoonux37wauz6oqymshuvebj5u763rutlogc2fb2o3ugcazid.onion
 AKO Group - http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
