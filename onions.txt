@@ -1,6 +1,5 @@
 #Online
 Arvin - http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion
-AstroTeam - http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion 
 AvosLocker - http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion
 Cl0p - http://ekbgzchl6x2ias37.onion
 Conti - http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion
@@ -20,19 +19,21 @@ Pay2Key - http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion
 Payload.bin (Babuk) - http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion
 Prometheus - http://promethw27cbrcot.onion/blog/
 Pysa - http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion
+Quantum - http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion/
 Ragnar Locker - http://p6o7m73ujalhgkiv.onion
 RansomEXX - http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion
-REvil (Happy Blog) - http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
-Suncrypt - http://nbzzb6sa6xuura2z.onion
+Suncrypt - http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/
 SynACK - http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion
 Vice Society - http://4hzyuotli6maqa4u.onion/
 Xing - http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion
 
 #Offline
 AKO Group - http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+AstroTeam - http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion 
 Avaddon - http://avaddongun7rngel.onion
 DarkSide - http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion
 Lockbit1.0 - http://lockbitkodidilol.onion
 Mobikwik Indian Data Leak - http://mobikwikoonux37wauz6oqymshuvebj5u763rutlogc2fb2o3ugcazid.onion
 Ragnarok Leaks - http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion
 Ranzy - http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+REvil (Happy Blog) - http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
